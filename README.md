@@ -1,5 +1,7 @@
 # Que Elemento é Esse?
 
+![Capa do jogo](capa.png)
+
 Jogo educativo de Química (TCC) inspirado no "Quem é esse Pokémon?". O aluno vê o **modelo de Bohr** de um elemento da tabela periódica e precisa descobrir qual é. São **60 segundos** para acertar o máximo possível.
 
 Não tem ranking: a ideia é o aluno treinar e se divertir ao mesmo tempo.
